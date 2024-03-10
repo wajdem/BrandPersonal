@@ -2295,11 +2295,12 @@ form button:hover {
     width: 40%;
   }
   .about-img img {
-    width: 75%;
-    height: 450px;
+    width: 127%;
+    height: 434px;
     padding: 30px;
-    border-radius: 34px;
+    border-radius: 40px;
     animation: opacity 1.4s ease;
+    margin-left: 0px;
   }
   .about-img {
     width: 40%;
