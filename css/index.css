@@ -2295,13 +2295,16 @@ form button:hover {
     width: 40%;
   }
   .about-img img {
-    width: 127%;
-    height: 434px;
-    padding: 30px;
-    border-radius: 40px;
+    width: 112%;
+    height: 554px;
+    border-radius: 25px;
     animation: opacity 1.4s ease;
-    margin-left: 0px;
-  }
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    margin-top: -55px;
+}
   .about-img {
     width: 40%;
     height: 450px;
